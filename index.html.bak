@@ -396,7 +396,6 @@
                         <a href="https://flutter.dev"><img class="development-icon" src="assets/images/icons/flutter.svg" title = "Flutter" alt="Flutter icon" /></a>
                         <!--<a href="https://www.jetbrains.com/idea/"><img class="development-icon" src="assets/images/icons/intellij-idea.svg" title = "" alt="intellij-idea" /></a>-->
                         <a href="https://code.visualstudio.com"><img class="development-icon" src="assets/images/icons/visual-studio-code-2019.svg" title = "" alt="visual-studio-code icon" /></a>
-						<a href="https://www.python.org"><img class="development-icon" src="assets/images/icons/python.png" title = "Python" alt="Python icon" /></a>
                         <a href="https://github.com"><img class="development-icon" src="assets/images/icons/github.png" title = "GitHub" alt="GitHub icon" /></a>
                         <a href="colab.research.google.com"><img class="development-icon" src="assets/images/icons/colab.png" title = "Google Colab " alt="Google Colab icon" /></a>
                         <a href="https://www.office.com"><img class="development-icon" src="assets/images/icons/office.png" title = "MS Office" alt="MS Office Icon" /></a>
@@ -407,6 +406,7 @@
                         <a href="https://www.sqlite.org"><img class="development-icon" src="assets/images/icons/sqlite.png" title = "" alt="SQLite icon" /></a>
                         <a href="https://visualstudio.microsoft.com/"><img class="development-icon" src="assets/images/icons/visual-studio-2019.svg " title = "" alt="Visual Studio icon" /></a>
                         <a href="https://www.adobe.com/products/xd.html"><img class="development-icon" src="assets/images/icons/adobe-xd.svg" title = "Adobe" alt="adobe xd icon" /></a>
+                        <a href="https://www.python.org"><img class="development-icon" src="assets/images/icons/python.png" title = "Python" alt="Python icon" /></a>
                         <a href="https://www.java.com/"><img class="development-icon" src="assets/images/icons/java.svg" title = "Java" alt="Java Icon" /></a>                        
                     </div><!--//section-inner-->
                 </aside><!--//section-->

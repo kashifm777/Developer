@@ -510,8 +510,8 @@ a.dotted-link:hover {
 .education .item .course {
   font-family: "Lato", arial, sans-serif;
   font-size: 12px;
-  color: #999;
-  padding: 0 25px 0 25px;
+  color: #b0b7bf;
+  padding-left: 25px;
 }
 
 .education .item .university .year {
