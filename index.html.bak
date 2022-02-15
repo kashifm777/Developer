@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.jpg">  
+    <link rel="shortcut icon" href="assets/images/favicon.jpg">  
     
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> 
@@ -17,11 +17,15 @@
     <!-- Global CSS -->
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">  
     
-    <!-- github calendar css -->
+    <!-- github calendar css
     <link rel="stylesheet" href="assets/plugins/github-calendar/dist/github-calendar-responsive.css">
+	
     <!-- github activity css -->  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">  
+	
+	<!--
     <link rel="stylesheet" href="assets/plugins/github-activity/src/github-activity.css">
+	-->
 
     <!-- Theme CSS -->  
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
@@ -126,17 +130,19 @@
                     <div class="section-inner shadow-sm rounded">
                         <h2 class="heading">Projects</h2>
                         <div class="content">
-
+						
+							<hr/>
                             <!-- Machine Learning -->
                             <div class="item row">
                                 <a class="col-md-2 col-12" href="https://github.com/kashifm777/Machine-Learning.git" target="_blank">
                                 <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/ML.png" alt="Machine Learning" />
                                 </a>
                                 <div class="desc col-md-10 col-12">
-                                    <h3 class="title">Machine Learning - Algorithms and Trainings</h3>
+                                    <h3 class="title">Machine Learning</h3>
                                     <p><a class="more-link" href="https://github.com/kashifm777/Machine-Learning.git" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
+							<hr/>
 
                             <!-- Image Processing -->
                             <div class="item row">
@@ -148,6 +154,7 @@
                                     <p><a class="more-link" href="https://github.com/kashifm777/Image-Processing.git" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
+							<hr/>
                             
                             <!-- Natural Language Processing -->
                             <div class="item row">
@@ -159,6 +166,7 @@
                                     <p><a class="more-link" href="https://github.com/kashifm777/Natural-Language-Processing.git" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
+							<hr/>
 
                             <!-- Computer Graphics -->
                             <div class="item row">
@@ -170,6 +178,7 @@
                                     <p><a class="more-link" href="https://github.com/kashifm777/Computer-Graphics.git" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
+							<hr/>
 
                             <!-- Compiler Construction -->
                             <div class="item row">
@@ -181,6 +190,7 @@
                                     <p><a class="more-link" href="https://github.com/kashifm777/Compiler-Construction.git" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
+							<hr/>
 
                             <!-- Mobile Communication -->
                             <div class="item row">
@@ -205,53 +215,20 @@
                         <div class="content">
 
                             <div class="item">
-                                <h3 class="title">APPLICATION DEVELOPER - <span class="place">Martos Express Courier (MXC) Services</span> <span class="year">(Feb 2021 - Jul 2021)</span></h3>
-                                <p>I had a wonderful experience working at MXC services. We worked on building the marketplace and it was an overwhelming experience. The highlight of my work there includes but not limited to:</p>
-                                <ul>
-                                    <li>Used applicable methodologies, modeling techniques, tools, applications, systems to perform development task</li>
-                                    <li>Managed all dashboards and management interface, as well as writing and maintaining the ETL processes that fed them</li>
-                                    <li>Researched new technologies and made recommendations within the expertise</li>
-                                    <li>Implemented design patterns related to scale design</li>
-                                    <li>Provided technical guidance to the leadership</li>
-                                    <li>Provided expertise on standard coding practices and support for highly complex technical issues</li>
-                                    <li>Wore multiple hats including DevOps, Developer, QA, and System Admin</li>
-                                    <li>Helped to define, specify, and drive initiatives and features required for the system’s architecture to enable diagnostic and debug</li>
-                                    <li>Worked on the features of the MXC Android App</li>
-                                    <li>Provided support for the booking portal and website</li>
-                                </ul>
+                                <h3 class="title">APPLICATION DEVELOPER - </h3>
+								<div class="place">Martos Express Courier (MXC) Services</div> 
+								<div class="year">(Feb 2021 - Jul 2021)</div>
                             </div><!--//item-->
 
                             <div class="item">
-                                <h3 class="title">PROGRAMMING ANALYST - <span class="place">Aga Khan Development Network</span> <span class="year">(Sep 2020 - Feb 2021)</span></h3>
-                                <p>Worked primarily in mobile application development</p>
-                                <ul>
-                                    <li>Learning, developing, and maintaining the app while ensuring requirements delivered as capabilities</li>
-                                    <li>Ensured app meets all the requirements of quality, security, modifiability, and extensibility</li>
-                                    <li>Delivered quality-driven outcomes as aligned with timeline pressure</li>
-                                    <li>Conducted rapid prototyping to demonstrate and evaluate technologies in relevant environments</li>
-                                    <li>Ensured meeting the quality, security and compliance for the developed application</li>
-                                    <li>Analyzed complex business requirements, functional specs, and wrote technical specifications</li>
-                                    <li>Participated in agile development to design microservices using frameworks that implements REST API</li>
-                                    <li>Discovered software defects during quality assurance process</li>
-                                    <li>With preliminary investigations, compiled a very thorough report on Health Activity Monitoring Systems</li>
-                                    <li>It was a deep analysis including requirements, scope, security, architecture, platform implementation, etc.</li>`
-                                    <li>Another report in similar capability regarding the app development process and features</li>
-                                    <li>Being a programming analyst, I wrote, tested, and optimized the codes of Live Application of HAYAT Pakistan</li>
-                                    <li>Develop, test, analyze, and maintain new applications in support of the achievement of business requirements</li>
-                                </ul>
+                                <h3 class="title">PROGRAMMING ANALYST</h3>
+								<div class="place">Aga Khan Development Network</div> 
+								<div class="year">(Sep 2020 - Feb 2021)</div>
                             </div><!--//item-->
                             
                             <div class="item">
-                                <h3 class="title">FREELANCING<span class="year">(2017 onwards)</span></h3>
-                                <p>My distinct achievements as freelancer are:</p>
-                                <ul>
-                                    <li>Small Scale Android apps using Android Studio</li>
-                                    <li>Writing Code scripts on languages like; Python, C, C#, & Java</li>
-                                    <li>Website development with HTML5, CSS3, Bootstrap 4.0, PHP7 & MySQL</li>
-                                    <li>Compiled complete Implementation Reports for various mobile, web, and security applications </li>
-                                    <li>Project documents like requirement specifications, test plans, traceability matrices, defect reports & API documentation</li>
-                                    <li>Resume design & rebuild, cover letter writing & LinkedIn profile optimization </li>
-                                </ul>
+                                <h3 class="title">FREELANCING</h3>
+								<div class="year">2017 onwards</div>
                             </div><!--//item-->
                             
                         </div><!--//content-->  
@@ -396,6 +373,7 @@
                         <a href="https://flutter.dev"><img class="development-icon" src="assets/images/icons/flutter.svg" title = "Flutter" alt="Flutter icon" /></a>
                         <!--<a href="https://www.jetbrains.com/idea/"><img class="development-icon" src="assets/images/icons/intellij-idea.svg" title = "" alt="intellij-idea" /></a>-->
                         <a href="https://code.visualstudio.com"><img class="development-icon" src="assets/images/icons/visual-studio-code-2019.svg" title = "" alt="visual-studio-code icon" /></a>
+						<a href="https://www.python.org"><img class="development-icon" src="assets/images/icons/python.png" title = "Python" alt="Python icon" /></a>
                         <a href="https://github.com"><img class="development-icon" src="assets/images/icons/github.png" title = "GitHub" alt="GitHub icon" /></a>
                         <a href="colab.research.google.com"><img class="development-icon" src="assets/images/icons/colab.png" title = "Google Colab " alt="Google Colab icon" /></a>
                         <a href="https://www.office.com"><img class="development-icon" src="assets/images/icons/office.png" title = "MS Office" alt="MS Office Icon" /></a>
@@ -406,7 +384,6 @@
                         <a href="https://www.sqlite.org"><img class="development-icon" src="assets/images/icons/sqlite.png" title = "" alt="SQLite icon" /></a>
                         <a href="https://visualstudio.microsoft.com/"><img class="development-icon" src="assets/images/icons/visual-studio-2019.svg " title = "" alt="Visual Studio icon" /></a>
                         <a href="https://www.adobe.com/products/xd.html"><img class="development-icon" src="assets/images/icons/adobe-xd.svg" title = "Adobe" alt="adobe xd icon" /></a>
-                        <a href="https://www.python.org"><img class="development-icon" src="assets/images/icons/python.png" title = "Python" alt="Python icon" /></a>
                         <a href="https://www.java.com/"><img class="development-icon" src="assets/images/icons/java.svg" title = "Java" alt="Java Icon" /></a>                        
                     </div><!--//section-inner-->
                 </aside><!--//section-->
@@ -415,23 +392,24 @@
     </div><!--//masonry-->
     
     
- 
-    <!-- Javascript -->          
+	<script type="text/javascript" src="assets/plugins/dark-mode-switch/dark-mode-switch.min.js"></script> 
+
+    <!-- Javascript          
     <script type="text/javascript" src="assets/plugins/popper.min.js"></script> 
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
     <script type="text/javascript" src="assets/plugins/vanilla-rss/dist/rss.global.min.js"></script>  
     
-    <!-- Custom js -->
+    <!-- Custom js
     <script type="text/javascript" src="assets/js/main.js"></script>
 
-    <script type="text/javascript" src="assets/plugins/dark-mode-switch/dark-mode-switch.min.js"></script> 
 
-    <!-- github calendar plugin -->
+    <!-- github calendar plugin
     <script type="text/javascript" src="assets/plugins/github-calendar/dist/github-calendar.min.js"></script>
 
-    <!-- github activity plugin -->
+    <!-- github activity plugin 
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
     <script type="text/javascript" src="assets/plugins/github-activity/src/github-activity.js"></script>
+	-->
 
                
 </body>
