@@ -362,6 +362,10 @@ a.dotted-link:hover {
 	width: 100%;
 }
 
+.certificate .section .row .col-sm {
+	margin-top: 20px;
+}
+
 /* Git section */
 .github-graph {
   margin-bottom: 30px;
