@@ -356,6 +356,12 @@ a.dotted-link:hover {
   font-weight: normal;
 }
 
+/* certificate section */
+.certificate img {
+	height: 100%;
+	width: 100%;
+}
+
 /* Git section */
 .github-graph {
   margin-bottom: 30px;
